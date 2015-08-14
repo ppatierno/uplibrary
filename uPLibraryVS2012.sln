@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uPLibraryNetMf41", "uPLibrary\uPLibraryNetMf41.csproj", "{B3A1B8B1-C4DC-464C-99E6-39E5301C6D8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uPLibraryNetMf42", "uPLibrary\uPLibraryNetMf42.csproj", "{2B21CDE6-0EEC-44F1-AE04-7AD44638D6E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uPLibraryNetMf43", "uPLibrary\uPLibraryNetMf43.csproj", "{8C68FE01-792A-402E-9873-986437037C35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A1B8B1-C4DC-464C-99E6-39E5301C6D8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3A1B8B1-C4DC-464C-99E6-39E5301C6D8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3A1B8B1-C4DC-464C-99E6-39E5301C6D8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3A1B8B1-C4DC-464C-99E6-39E5301C6D8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B21CDE6-0EEC-44F1-AE04-7AD44638D6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B21CDE6-0EEC-44F1-AE04-7AD44638D6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B21CDE6-0EEC-44F1-AE04-7AD44638D6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B21CDE6-0EEC-44F1-AE04-7AD44638D6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C68FE01-792A-402E-9873-986437037C35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C68FE01-792A-402E-9873-986437037C35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C68FE01-792A-402E-9873-986437037C35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C68FE01-792A-402E-9873-986437037C35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
